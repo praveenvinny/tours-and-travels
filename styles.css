@@ -544,3 +544,5 @@ section { padding: 64px 0; }
 
 @media (max-width: 600px) { .incl { grid-template-columns: 1fr; } }
 
+
+.travel-head { margin-top: 28px; }
